@@ -14,3 +14,6 @@ Spam report举报：admin@seanoj.edu.eu.org
 服务监控：
 1. githubproxy.eu.org 实时监控
 2. seanoj.edu.eu.org 问题反馈
+
+Discord 频道：
+https://discord.gg/RvrWcafZSW
